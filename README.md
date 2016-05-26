@@ -13,4 +13,12 @@
 
 	private String password = "7684751";
 
-演示录像：
+演示：
+![Alt text](./showimage/1.png)
+![Alt text](./showimage/2.png)
+![Alt text](./showimage/3.png)
+![Alt text](./showimage/4.png)
+![Alt text](./showimage/5.png)
+![Alt text](./showimage/6.png)
+![Alt text](./showimage/7.png)
+![Alt text](./showimage/8.png)
